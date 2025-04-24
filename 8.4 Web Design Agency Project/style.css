@@ -19,3 +19,40 @@ footer {
   color: midnightblue;
 }
 
+.tile-image{
+  width: 200px;
+  height: 150px;
+  float: left;
+}
+
+
+.main .card{
+  width: 50%;
+}
+
+.main .left{
+  float: left;
+}
+.main .right{
+  float: right;
+}
+.card-title{
+  position: relative;
+  margin-left: 220px;
+  font-size: 20px;
+}
+.card p{
+  position: relative;
+  margin-left : 220px;
+  margin-right: 100px;
+  font-size: 10px;
+}
+
+h1{
+  width: 60%;
+  font-size: 4rem;
+}
+
+h1 span{
+  color: blueviolet;
+}
