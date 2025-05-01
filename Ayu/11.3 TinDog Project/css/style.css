@@ -1,0 +1,60 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+.adv-images{
+  display: flexbox;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.text-body-emphasis{
+  font-size: 2rem;
+}
+
+.circ-image{
+  border-radius: 50%;
+  height: 100px;
+}
+.dog-img{
+  display: flexbox;
+  margin: 4rem ;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
+
+
+
+.display-5{
+  font-size: 3rem;
+}
+.feature-icon{
+  border-radius : 0.75rem;
+  width: 3rem;
+  height: 3rem;
+}
