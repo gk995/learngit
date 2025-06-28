@@ -1,0 +1,123 @@
+@media (min-width : 800px){
+.a1{
+    text-align: center;
+}
+.a11{
+    color : red;
+    font-size: xx-large;
+}
+
+.a2{
+    text-decoration: underline;
+    color: yellow;
+    background-color: skyblue;
+    border-color: antiquehite;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: x-large;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 1.5%;
+    position: relative;
+    border-top-width: 1px;
+    float: left;
+    height: 400px;
+}
+
+.a3{
+    text-align: center;
+    color: lightcoral;
+    background-color: aquamarine;
+    border-style: double;
+    border-color: red;
+    position: relative;
+    margin-top: 10px;
+    align-items: center;
+    float: right;
+}
+
+.a4{
+    background-color: orange;
+    float:right;
+    border: 5px dotted red;
+    justify-content: center;
+    margin-top: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.a41{
+    color: red;
+    background-color: white;
+}
+
+.a5{
+    background-color: cyan;
+    float:right;
+    border: 5px dotted blue;
+    justify-content: center;
+    margin-top: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.a51{
+    color: violet;
+    background-color: white;
+}
+
+.a6{
+    background-color: lightgreen;
+    float:right;
+    border: 5px dotted green;
+    justify-content: center;
+    margin-top: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.a61{
+    color: pink;
+    background-color: white;
+}
+
+.a7{
+    background-color: pink;
+    float:right;
+    border: 5px dotted violet;
+    justify-content: center;
+    margin-top: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.a71{
+    color: purple;
+    background-color: white;
+}
+
+.a8{
+    border: red dotted 1px;
+    background-color: rebeccapurple;
+    width: 100%;
+    display: block;
+    float: left;
+    position: absolute;
+    margin-top: 425px;
+}
+.a81{
+    text-align: center;
+    color: aliceblue;
+    background-color: antiquewhite;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.a82{
+    background-color: whitesmoke;
+    width: 20vh;
+}
+.a83{
+    border-top: 2px dotted;
+    border-color: white;
+}
+}
+
+@media (min-width : 500px){
+    /* homework for d3 before starting - rewrite code for the different media size - achcha lagna chahiye! */
+}
